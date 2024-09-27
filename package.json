@@ -26,6 +26,14 @@
   "license": "CC-BY-4.0",
   "main": "./dist",
   "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammanvedi/planar-face-discovery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ammanvedi/planar-face-discovery/issues"
+  },
+  "homepage": "https://github.com/ammanvedi/planar-face-discovery#readme",
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
